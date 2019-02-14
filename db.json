@@ -43,50 +43,5 @@
     ],
     "greeting": "Hello, Rios! You have 9 unread messages.",
     "favoriteFruit": "strawberry"
-  },
-  {
-    "_id": "5c64f8dac6b1d41035c5e4b5",
-    "index": 1,
-    "guid": "2413061e-4f81-4f36-bab9-0488f6612b2e",
-    "isActive": false,
-    "balance": "$3,623.41",
-    "picture": "http://placehold.it/32x32",
-    "age": 31,
-    "eyeColor": "blue",
-    "name": {
-      "first": "Brittany",
-      "last": "Talley"
-    },
-    "company": "BITREX",
-    "email": "brittany.talley@bitrex.us",
-    "phone": "+1 (849) 465-2232",
-    "address": "795 Rose Street, Ona, Vermont, 5551",
-    "about": "Ad veniam eu laboris enim aute irure. Excepteur magna labore ea sint cillum eiusmod est ullamco dolore sint sint ex esse sint. Proident officia quis enim sit dolore eu exercitation est magna Lorem velit enim. Cillum veniam velit cillum id anim proident sit laborum mollit esse voluptate Lorem. Laborum do commodo nostrud velit ullamco dolore mollit id reprehenderit irure.",
-    "registered": "Monday, December 28, 2015 6:45 PM",
-    "latitude": "-23.619245",
-    "longitude": "33.509906",
-    "tags": [
-      "est",
-      "incididunt",
-      "deserunt",
-      "ullamco",
-      "magna"
-    ],
-    "friends": [
-      {
-        "id": 0,
-        "name": "Cunningham Wilkins"
-      },
-      {
-        "id": 1,
-        "name": "Acosta Maddox"
-      },
-      {
-        "id": 2,
-        "name": "Lorena Burt"
-      }
-    ],
-    "greeting": "Hello, Brittany! You have 7 unread messages.",
-    "favoriteFruit": "banana"
   }
 ]
