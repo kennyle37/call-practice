@@ -88,50 +88,5 @@
     ],
     "greeting": "Hello, Brittany! You have 7 unread messages.",
     "favoriteFruit": "banana"
-  },
-  {
-    "_id": "5c64f8da039a8bb2dc0d917a",
-    "index": 2,
-    "guid": "12f2565d-485f-4a38-b5e8-b8e172f08cee",
-    "isActive": true,
-    "balance": "$2,436.91",
-    "picture": "http://placehold.it/32x32",
-    "age": 39,
-    "eyeColor": "brown",
-    "name": {
-      "first": "Mae",
-      "last": "Hobbs"
-    },
-    "company": "CIRCUM",
-    "email": "mae.hobbs@circum.org",
-    "phone": "+1 (963) 464-2265",
-    "address": "855 Hale Avenue, Homeland, Illinois, 7039",
-    "about": "Aute reprehenderit proident Lorem cillum fugiat do aliquip nisi ad incididunt ipsum ea aliquip irure. Incididunt laborum esse tempor in ullamco laboris anim quis ad exercitation nisi consectetur consectetur dolore. Et ut do qui eu occaecat laborum ex occaecat dolor eiusmod esse. Magna do aliqua deserunt enim. Dolor laborum ullamco incididunt duis reprehenderit voluptate do ad labore enim.",
-    "registered": "Friday, September 19, 2014 12:27 AM",
-    "latitude": "76.929341",
-    "longitude": "115.344736",
-    "tags": [
-      "exercitation",
-      "mollit",
-      "ullamco",
-      "quis",
-      "adipisicing"
-    ],
-    "friends": [
-      {
-        "id": 0,
-        "name": "Blevins Juarez"
-      },
-      {
-        "id": 1,
-        "name": "Angela Solomon"
-      },
-      {
-        "id": 2,
-        "name": "Laurie Morales"
-      }
-    ],
-    "greeting": "Hello, Mae! You have 7 unread messages.",
-    "favoriteFruit": "banana"
   }
 ]
