@@ -17,7 +17,7 @@ class App extends Component {
 
   // working: https://jsonplaceholder.typicode.com/todos/1
   handleGet = () => {
-    axios.get('  https://my-json-server.typicode.com/typicode/demo/profile')
+    axios.get('https://my-json-server.typicode.com/kennyle37/call-practice/db')
       .then(res => console.log(res.data))
       .catch(err => console.log(err))
   }
