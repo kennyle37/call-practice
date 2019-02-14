@@ -15,16 +15,10 @@ class App extends Component {
   //   this.handleGet();
   // }
 
+  // working: https://jsonplaceholder.typicode.com/todos/1
   handleGet = () => {
-    axios.get('https://jsonplaceholder.typicode.com/todos/1')
-      .then(res => {
-        this.setState({
-          completed: res.data.completed,
-          id: res.data.id,
-          title: res.data.title,
-          userId: res.data.userId
-        })
-      })
+    axios.get('  https://my-json-server.typicode.com/typicode/demo/profile')
+      .then(res => console.log(res.data))
       .catch(err => console.log(err))
   }
 
