@@ -1,45 +1,8 @@
 {
-  "_id": "5c64f8da5a52e36b58854d6a",
-  "index": 0,
-  "guid": "c0f8db6d-c0be-462e-bfc8-d2f041bb2f8e",
-  "isActive": false,
-  "balance": "$1,506.51",
-  "picture": "http://placehold.it/32x32",
-  "age": 30,
-  "eyeColor": "brown",
-  "name": {
-    "first": "Rios",
-    "last": "Wood"
-  },
   "company": "EXTRAGENE",
   "email": "rios.wood@extragene.name",
   "phone": "+1 (951) 600-2287",
   "address": "876 Seaview Court, Grenelefe, Guam, 7868",
   "about": "Amet nulla quis incididunt dolore ipsum. Eiusmod duis ea aute ex commodo cupidatat nisi mollit incididunt irure aute officia amet ut. Ea Lorem velit Lorem ipsum id esse qui.",
-  "registered": "Tuesday, November 20, 2018 8:55 AM",
-  "latitude": "-75.668979",
-  "longitude": "159.623449",
-  "tags": [
-    "cupidatat",
-    "do",
-    "minim",
-    "nostrud",
-    "duis"
-  ],
-  "friends": [
-    {
-      "id": 0,
-      "name": "Norris Bryan"
-    },
-    {
-      "id": 1,
-      "name": "Marjorie Navarro"
-    },
-    {
-      "id": 2,
-      "name": "Hess Johns"
-    }
-  ],
-  "greeting": "Hello, Rios! You have 9 unread messages.",
-  "favoriteFruit": "strawberry"
+  "registered": "Tuesday, November 20, 2018 8:55 AM"
 }
